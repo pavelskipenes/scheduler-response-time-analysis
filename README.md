@@ -46,7 +46,7 @@ Solution is found when $w_i = w_i^{n+1}$
 [video](https://www.youtube.com/watch?v=qaVRW5XN_ew)
 
 
-> If math formulas are not displayed correctly, install [https://chrome.google.com/webstore/detail/github-math-display/cgolaobglebjonjiblcjagnpmdmlgmda](this extension) (chromium based browsers).
+> If math formulas are not displayed correctly, install [this extension](https://chrome.google.com/webstore/detail/github-math-display/cgolaobglebjonjiblcjagnpmdmlgmda)
 
 <!-- render math formulas on export in vs code -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
